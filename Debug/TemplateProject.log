@@ -1,0 +1,5 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\Sala\Documents\Proyecto Cristo\ComputacionGrafica-master\ComputacionGrafica-master\main.cpp(41,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Sala\Documents\Proyecto Cristo\ComputacionGrafica-master\ComputacionGrafica-master\main.cpp(41,7): warning C4101: 'w': variable local sin referencia
+  TemplateProject.vcxproj -> C:\Users\Sala\Documents\Proyecto Cristo\ComputacionGrafica-master\ComputacionGrafica-master\Debug\TemplateProject.exe
